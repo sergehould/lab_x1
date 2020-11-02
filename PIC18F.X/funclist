@@ -1,0 +1,5 @@
+_main: CODE, 65522 0 14
+__initialization: CODE, 65508 0 0
+_initOscillator: CODE, 65514 0 8
+_initIO: CODE, 65502 0 6
+Total: 28
